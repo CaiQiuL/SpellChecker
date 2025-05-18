@@ -1,4 +1,3 @@
-lqc7 & tl709
 ------------
 
 How to use test files
